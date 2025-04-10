@@ -41,11 +41,11 @@ Pipeline:
 
 | Metric     | Result (example) |
 |------------|------------------|
-| Accuracy   | ~95%             |
+| Accuracy   | ~92%             |
 | Classes    | 30 individuals   |
 | Model Type | MLP (SGD solver) |
 
-*(Replace these values with your actual results if needed)*
+*(Evaluate)*
 
 ---
 
@@ -74,7 +74,7 @@ It uses the same manual HOG method and MLP model (already trained) to infer the 
 
 **Indra Eka Mandriana S.Kom**  
 _Machine Learning Engineer_  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/)) | [GitHub](https://github.com/indraekam)
 
 ---
 
