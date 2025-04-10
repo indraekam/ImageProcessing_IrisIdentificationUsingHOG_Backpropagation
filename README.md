@@ -1,3 +1,6 @@
+![Banner](assets/banner_iris_recognation.png)
+
+
 # 👁️ Iris Identification using Manual HOG + MLPClassifier (Backpropagation)
 
 This project performs **iris recognition** using grayscale images of rotated iris samples.  
