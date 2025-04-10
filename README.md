@@ -77,7 +77,7 @@ It uses the same manual HOG method and MLP model (already trained) to infer the 
 
 **Indra Eka Mandriana S.Kom**  
 _Machine Learning Engineer_  
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/)) | [GitHub](https://github.com/indraekam)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/indra-eka-mandriana-47a885148/) | [GitHub](https://github.com/indraekam)
 
 ---
 
