@@ -8,6 +8,11 @@ It extracts features using a **manually implemented Histogram of Oriented Gradie
 
 ---
 
+![HOG](https://img.shields.io/badge/Feature-HOG-black?style=flat&logo=opencv)
+![MLP](https://img.shields.io/badge/Model-Backpropagation-lightgrey?style=flat&logo=scikitlearn)
+![Status](https://img.shields.io/badge/Status-Final-brightgreen?style=flat)
+
+
 ## 🚀 Project Overview
 
 - 📷 **Input**: Grayscale rotated iris images
